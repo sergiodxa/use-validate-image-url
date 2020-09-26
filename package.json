@@ -1,6 +1,6 @@
 {
   "name": "use-validate-image-url",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "author": "Sergio Xalambrí",
   "license": "MIT",
   "main": "dist/index.js",
